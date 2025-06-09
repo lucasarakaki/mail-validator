@@ -1,0 +1,5 @@
+#!/bin/env/bash php
+
+<?php
+require_once __DIR__.'/bootstrap.php'; // Load the bootstrap file
+

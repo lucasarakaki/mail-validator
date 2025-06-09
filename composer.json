@@ -1,0 +1,14 @@
+{
+    "name": "lucastakeshi/mail-validator",
+    "description": "Email validator with PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lucasarakaki",
+            "email": "takeshioficial01@gmail.com"
+        }
+    ],
+    "require": {
+        "egulias/email-validator": "^4.0"
+    }
+}
